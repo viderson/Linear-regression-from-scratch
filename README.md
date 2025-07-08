@@ -18,8 +18,6 @@ linear-regression/
 │   └── test.csv           # Sample input dataset
 ├── notebooks/
 │   └── Linear_regression_from_scratch.ipynb
-├── model/
-│   └── linear_regression.py  # The model implementation (optional extraction)
 └── README.md
 ```
 
@@ -149,15 +147,6 @@ x,y
 3.5,7.2
 ...
 ```
-
----
-
-## 📚 Future Improvements
-
-- Multi-feature support
-- Batch size (mini-batch gradient descent)
-- Regularization (L1/L2)
-- Scikit-learn benchmark comparison
 
 ---
 
