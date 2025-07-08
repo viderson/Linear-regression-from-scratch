@@ -163,5 +163,5 @@ x,y
 
 ## 🤖 Author
 
-**J.K.** — Machine Learning enthusiast & student of Applied Computer Science at UJ  
-🌐 Check out more: [YourGitHubProfile](https://github.com/yourusername)
+**F.W.**  
+🌐 Check out more: [YourGitHubProfile](https://github.com/viderson)
